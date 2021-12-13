@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning at Technischools
 - 💞️ I’m looking to collaborate on Final Dungeons
-- 📫 How to reach me: NO
+- 📫 How to reach me: CAN'T
 
 <!---
 AnanasekE/AnanasekE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
