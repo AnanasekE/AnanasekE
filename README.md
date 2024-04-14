@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Janek Sambor</h1>
 - 🔭 I’m currently working on **Final Dungeons**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning a ton of useful things
 
 - 📫 How to reach me **janeksambor@gmail.com**
 
