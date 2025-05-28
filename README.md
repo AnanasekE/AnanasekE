@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jan</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ananaseke" alt="ananaseke" /></a> </p>
 
 - 🌱 I’m currently learning **Minecraft modding in java**
 
@@ -17,3 +16,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ananaseke&show_icons=true&locale=en" alt="ananaseke" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananaseke&" alt="ananaseke" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ananaseke" alt="ananaseke" /></a> </p>
